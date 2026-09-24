@@ -1,6 +1,6 @@
-# Symbôle et Neutralité
+# Symbole et Neutralité
 
-Première version du site statique de l'association **Symbôle et Neutralité**, en français.
+Première version du site statique de l'association **Symbole et Neutralité**, en français.
 
 ## Pages
 
